@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "llm-assert"
+version = "0.1.3"
+description = "Assertify using LLMs"
+authors = [{name = "Juan D.", email = "juandiazsuarez0@gmail.com"}]
+readme = "README.md"
+requires-python = ">=3.7.1"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: Apache Software License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "openai",
+    "pytest"
+]
+
+[project.urls]
+Homepage = "https://github.com/juandspy/llm-assert"
+Issues = "https://github.com/juandspy/llm-assert/issues"
