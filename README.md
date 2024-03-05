@@ -1,4 +1,4 @@
-# Assert LLM
+# Asserting with LLMs
 
 A tool for lazy people that doesn't want to spend time on writing tests.
 
