@@ -1,6 +1,6 @@
 # Asserting with LLMs
 
-A tool for lazy people that doesn't want to spend time on writing tests.
+A tool for lazy people that don't want to spend time on writing tests.
 
 (Just a project that I wrote for fun)
 
